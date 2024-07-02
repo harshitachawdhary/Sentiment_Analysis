@@ -1,0 +1,168 @@
+author,text,likeCount,publishedAt
+@CodeWithHarry,"I am doing my best to create the best Java Course for you. Please do your part by sharing this video!
+Access the Playlist: https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q 
+Instagram: Instagram.com/CodeWithHarry",1315,2020-09-01T16:59:54Z
+@mohammadibrahim7829,-(2^n)÷2 to (2^n)÷2 -1,0,2024-07-02T17:42:46Z
+@devilydv2625,(-2^n×8)÷2 to (2^n×8)÷2-1,0,2024-07-02T12:06:27Z
+@26gauravtiwari87,Bhaiya app bhot acccha padhate ho,0,2024-07-02T08:24:08Z
+@RaviAshish-vg6tf,Amazing java course ❤🎉,1,2024-07-02T04:46:17Z
+@priyanshuraiIITBIITB,if it takes 1 byte then formula is( -n^8/n to n^8/n-1),0,2024-07-01T19:06:45Z
+@sharifaadmi12,((-2)^n*8))/2 to((2)^n*8)/2 -1,0,2024-07-01T18:50:01Z
+@StudyNidhi-ni5uv,You're the best coding teacher ever 😊❤,0,2024-07-01T07:24:46Z
+@vanditstech9081,2^(8n-1) to 2^(8n-1) - 1,0,2024-06-30T17:59:42Z
+@shubhdauntless,amazingjavacode,0,2024-06-30T11:13:57Z
+@liveshorts8,java cods,0,2024-06-29T20:11:35Z
+@himanshurautela2609,Nice and very use ful video ❤,1,2024-06-29T07:59:35Z
+@deepamandal9084,-2^8n-1 to 2^8n-1 - 1,1,2024-06-29T04:58:51Z
+@rahulpriyadarshi707,-(2)^n/2 to (2^n)/2-1,0,2024-06-28T15:44:58Z
+@youtuberj.d,"actually i coded 
+
+
+
+public class Main {
+ public static void main ( String[ ] args {
+      System.out.print (""the sum of numbers is "");
+     int k = 2;
+     int j = 3 ;
+     int l = 4 ;
+     int sum = k + j + l ;
+      System.out.println(sum);
+           }
+ }
+
+
+
+
+it showed an error . but ide bugged editor helped me and corrected it by code as 
+
+
+public class Main {
+ public static void main ( String[ ] args {
+      System.out.print (""the sum of numbers is "");
+     int k = 2;
+     int j = 3 ;
+     int l = 4 ;
+     int sum = k + j + l ;
+      System.out.println(sum);;
+           }
+ }
+
+
+IS IT UPDATED OR U HAD AN ERROR CWH ?",0,2024-06-27T17:40:33Z
+@ishwarkumar983,amazing java,0,2024-06-27T15:27:06Z
+@yogendrajookanti7504,nice explanation sir,0,2024-06-27T05:35:49Z
+@nkdox5,"public class AddThreeNum {
+    public static void main(String[] args){
+
+        byte num1 = 5, num2 = 4, num3 = 9;
+        int sum = num1 + num2 + num3;
+        System.out.println(""The sum of three numbers is: "" + sum);
+
+    }
+}",0,2024-06-26T14:35:35Z
+@pujakumari6813,Amazing Java Course,0,2024-06-26T13:07:32Z
+@Goranshu03,for n values - 2^8n/2 to 2^8n/2 - 1,0,2024-06-25T16:36:06Z
+@akshatmehrotra4687,-(2^n)/2 to (2^n)/2 -1,1,2024-06-25T06:33:52Z
+@worldmotivationedits9999,FOR n BYTES DATA TYPE FORMULA IS- 2^8*n/2  ---- to ------ 2^8*n/2  -1,0,2024-06-25T06:26:20Z
+@anuvabghosh2284,Sir what is object in Java language,1,2024-06-24T15:01:24Z
+@SumedhKulkarni-qk4zv,amazing java course bro. thanks for all your hard-earned  knowledge,0,2024-06-24T14:36:55Z
+@user-vy1rg3yh2t,thanks very much,0,2024-06-24T12:36:06Z
+@MuhammadMursaleen-tb2iy,"The word  ""idiot"" perfectly suits for those students who cannot learn Java even from Harry bro🎉🎉🎉",0,2024-06-24T11:14:24Z
+@manishakumawat440,(2)^8n÷2 to (2)^8n÷2-1 this formula is correct for n=no.of byte,1,2024-06-24T10:12:09Z
+@Rogg509,- ( 2^8n )/2 to (2^8n)/2 -1,1,2024-06-23T09:28:01Z
+@anuvabghosh2284,Amazing java course,0,2024-06-23T03:01:25Z
+@MubiDramaEditz,-(2 power n/2) to (2 power n/2),1,2024-06-22T17:34:36Z
+@PAman-ot8ih,amazing java course,0,2024-06-22T07:05:21Z
+@faiyazannur8448,🎉,0,2024-06-22T06:19:45Z
+@AditiRathore-pq9bc,Amazing,0,2024-06-21T17:49:14Z
+@abdulwahab-jx5ih,Amazing Method Of Teaching 🥰,0,2024-06-21T15:42:41Z
+@iteez_sr7,"Well ❤️‍🩹, i got confidence in Java",0,2024-06-21T07:02:57Z
+@TheShadab17,Very impressive teaching skill.,0,2024-06-20T14:16:33Z
+@AnadiSinghRathi,First video has 8.3 million views and one of them has 43k.... its about dedication 😅,0,2024-06-20T10:44:23Z
+@AliMubeenSiddiqui,"package com.company;
+
+public class Main{
+    public static void main(String[] args){
+        byte num1 = 2;
+        byte num2 = 4;
+        byte num3 = 6;
+        int num4 = (num1 + num2 + num3);
+        System.out.println(num4);
+
+    }
+}",0,2024-06-20T10:23:08Z
+@RajaSimha-my3jw,Amazing java code,0,2024-06-20T05:49:15Z
+@Dev_editor777,-(2)^8n/2 to (2)^8n/2  -1,0,2024-06-20T04:55:47Z
+@ResearchRealm96,-2 to the power 8n/2 to 2 to the power 8n/2 -1,0,2024-06-19T23:23:59Z
+@user-if9kz5ls8p,"This video covers the basics of variables and data types in Java programming, including primitive data types, their ranges, and rules for naming variables.
+
+
+Key moments:
+00:07 Variables in Java act as containers where values are stored, determined by data types like Integer, Character, etc. Java has Primitive Data Types like Byte, Int, Float, Char, Double, Bool, Long, and Short.
+          -Anatomy of a Java program includes documentation, package, input statements, interface statements, class definitions, and the essential main method class as the entry point for program execution.
+          -Primitive Data Types in Java include Byte, Int, Float, Char, Double, Bool, Long, and Short, each serving specific data storage purposes within the program.
+05:17 Non-primitive data types are derived from primitive data types. Understanding data types and variables in Java is crucial for programming, ensuring proper syntax and adherence to naming rules and reserved keywords.
+          -Importance of understanding data types and variables in Java for programming. Syntax and naming rules play a vital role in Java programming.
+          -Explanation of variables in Java as containers for values that can be changed. Emphasizing the significance of following rules for variable names.
+          -Rules for naming variables in Java, including not starting with a digit, being case sensitive, and avoiding reserved keywords. Demonstrating examples of valid and invalid variable names.
+11:11 Java variables have naming rules like no spaces, can start with alphabets, $, or _, and can contain digits. Choosing meaningful variable names enhances code readability and understanding, making programming easier and more efficient.
+          -Java variables have specific naming rules to follow for better code organization and readability.
+          -Choosing appropriate and descriptive variable names improves code comprehension and ease of maintenance.
+          -Understanding data types in Java, including primitive and non-primitive types, is essential for effective programming.
+17:07 The video discusses the eight primitive data types in Java, their sizes, default values, and how to choose the appropriate type based on the range of values. It also includes a Java program example to add three numbers and explains the difference between System.out.println and System.out.print.
+          -Explanation of primitive data types in Java, their sizes, default values, and the importance of choosing the appropriate type based on the range of values.
+          -Demonstration of a Java program to add three numbers using variables and System.out.println to display the sum.
+          -Clarification on the difference between System.out.println and System.out.print in Java for printing output with or without a new line.",0,2024-06-19T15:42:21Z
+@mayamardi7609,Great job sir. Your way of explaination is simple and  i would recommend this channel to all the coders out there . AMAZING COURSE !!!!! 🎉 🎉,2,2024-06-19T06:03:14Z
+@sunitadevi-xi9bg,notes kaise download kaise kare,2,2024-06-19T03:38:15Z
+@shravikaatanure9643,How to download notes,0,2024-06-18T14:58:59Z
+@kanishkakanishka4781,Amazing Java Code,0,2024-06-18T07:55:12Z
+@2K_GAMINGX,-2^8n/2 to 2^8n/2 -1,0,2024-06-17T18:26:32Z
+@user-iy2dk9lc2j,Amazing course,0,2024-06-17T18:17:47Z
+@noobsgroupofgaming9542,good study,0,2024-06-17T15:32:12Z
+@directormishra5486,11:34,0,2024-06-17T09:08:27Z
+@nirajchaudhary2677,Very nice sir,0,2024-06-16T17:27:04Z
+@lordfoxy7695,-(2^8n)/2 to (2^8n)/2-1,0,2024-06-16T14:59:20Z
+@atharvacreations2003,(2)^n/*n2 to (2)^n*n/2 - 1 is the answer if the data type takes n bytes,0,2024-06-16T12:35:16Z
+@ignoobgameryt432,Int =2⁸n/2 to 2⁸n -1 sahi hai bhaiya,0,2024-06-16T03:46:47Z
+@vedantwairagade45,amazing java course bhaiya,0,2024-06-15T09:18:57Z
+@Siddique-re5wt,Thanks harry bhaiya😊,0,2024-06-15T08:05:28Z
+@djnitin7869,amazing java course bhaiya🙂,0,2024-06-15T01:16:25Z
+@sudeepmittal2520,-(2^8n)/2 to (2^8n)/2 -1,0,2024-06-14T18:11:37Z
+@raghavsharma-ij1bw,Amazing Java course,0,2024-06-13T06:08:51Z
+@laugh_till_u_pee895,comment 3 of 113,0,2024-06-12T18:45:37Z
+@SakshiSingh-mw4pp,(-2^n/2)+(2^n/2)-1,0,2024-06-12T07:15:02Z
+@nileshnatubhai8634,"Formula of range for n bytes 
+-(2^8n)/2 to (2^8n)/2 -1",2,2024-06-12T06:39:46Z
+@Mr_Raixan,Sir really sorry but aap baate zyada karte hain plz tora km baate Kiya kre just aap parhaye,0,2024-06-11T17:04:29Z
+@parhaimowarson2503,Amazing java course! 👍👍,0,2024-06-11T08:47:44Z
+@GayatriShejule-fq4nj,"11 June 2024
+Tuesday 
+Done 👍",0,2024-06-11T02:35:50Z
+@shivaputrasungar2104,ammezing java coce,0,2024-06-10T16:39:40Z
+@NamanChoudhary-fs3yt,Amazing java course !,0,2024-06-10T10:18:30Z
+@adityagayakwad1353,amazing java code,0,2024-06-10T04:30:48Z
+@shivendrasingh9450,Java board,0,2024-06-09T08:03:01Z
+@kkkkkkkkk4787,Notes kaha h??,0,2024-06-08T08:26:41Z
+@kanhaiyasingh798,"18:22 2kipower 8n/2 , 2ki power 8n/2 -1",0,2024-06-08T07:41:31Z
+@FinVoayge,Amazing bhai❤,0,2024-06-08T02:17:47Z
+@ajaybhardwaj9527,Amazing zava playlist ❤️,0,2024-06-07T04:53:26Z
+@bhargavijookanti,good explanation sir...thank you,0,2024-06-06T15:14:57Z
+@trymybest5125,-(2)^n*8) /2 to ((2)^n*8)/2-1,1,2024-06-05T09:17:38Z
+@kritikakanchan,-2^(8n)/2 to 2^(8n)/2 -1,1,2024-06-05T06:59:28Z
+@Kunalsingh03,2⁸ñ/2 to 2⁸ñ/2-1,0,2024-06-05T04:34:50Z
+@PN_CHAHAR,Formala is -(2⁸ñ)/2 to (2⁸ñ)/2,0,2024-06-04T08:11:45Z
+@DUSHYANTCHOUDHARY-wu3qm,-(2^8n)/2 to 2^8n-1,0,2024-06-04T05:07:38Z
+@SrajanJain-ds8bl,"Congratulations sir, here is a good news for you that is I have felt your feelings and skills of you teaching.",0,2024-06-03T13:43:30Z
+@TheInfotainment0,-(2^8×n)÷2 to (2^8×n)÷2  -1,0,2024-06-03T08:24:51Z
+@prasunboral4609,-(2^2n)/2     to    (2^2n)/2   -1,0,2024-06-03T08:16:06Z
+@awatekeerthi6239,👍,0,2024-06-03T07:30:37Z
+@prasunboral4609,Amazing JAVA programm,0,2024-06-03T03:39:37Z
+@Kumari-lm2dn,-2^n /2 to 2^n /2 -1,0,2024-06-02T12:45:34Z
+@Kumari-lm2dn,Amazing Java Code!!!!!!!,0,2024-06-02T12:25:57Z
+@amandx360,-(2 ^ñ*8)/2 to ( 2^n*8)/2 -1,1,2024-06-02T09:12:07Z
+@Chirag79839,15:57 SIR ISSS TIMESTAMP PRR APNA BYTE KI RANGE WRONG LIKHI H 2^8 =256 HOGA,0,2024-06-01T07:36:44Z
+@virajrokad3734,एचएन,0,2024-06-01T04:46:56Z
+@amitjain-xf6qd,The generic form for the range will be from   - ( (2^(N*8)) / 2 )   to   + ( ( (2^(N*8)) / 2 ) - 1 ),0,2024-05-31T15:31:17Z
+@user-nk7ld8xh2v,how to find chapter notes,0,2024-05-31T09:38:57Z
+@timeswithvirat6035,AMAZING JAVA COURSE,0,2024-05-30T15:21:15Z
